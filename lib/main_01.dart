@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-//This is MaterialApp only layout with AppBar
+//This is MaterialApp layout with AppBar
 
 void main() => runApp(MaterialApp(
   home: Scaffold(
